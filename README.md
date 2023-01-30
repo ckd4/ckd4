@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%36b723CF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BC36b723&lines=Computer+science+student)](https://git.io/typing-svg)
 36b723
 <!--
 **ckd4/ckd4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
