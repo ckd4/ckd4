@@ -1,14 +1,14 @@
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=10000&color=04F700&center=true&vCenter=true&width=835&lines=ckd4+bazist+programmist" alt="Typing SVG" /></a>
 
 <div>
-  <img align="center" height="250" src="https://gifdb.com/images/high/3d-saul-goodman-8w5pgtty7uc39twl.webp"/>
+<div>
+  <img height="250" src="https://gifdb.com/images/high/3d-saul-goodman-8w5pgtty7uc39twl.webp"/>
 </div>
 <div>
-  <img align="center" height="250" src="https://gifdb.com/images/high/caught-in-4k-saul-goodman-tz60jv8lh8sdnj3v.webp"/>
+  <img height="250" src="https://gifdb.com/images/high/caught-in-4k-saul-goodman-tz60jv8lh8sdnj3v.webp"/>
 </div>
+<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:81.15%;position:relative;"><iframe width="260" height="211" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/7dtcy5"></iframe></div><p><a href="https://imgflip.com/gif/7dtcy5">via Imgflip</a></p></div>
 <div>
-  <img align="center" height="250" src="https://imgflip.com/gif/7dtcy5"/>
-</div>
 
   <br/>
   <div align="center">
