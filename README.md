@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=10000&color=04F700&center=true&vCenter=true&width=835&lines=ckd4+bazist+programmist" alt="Typing SVG" /></a>
 
 <div>
-  <img align="left" height="250" src="https://media.tenor.com/-9ZnxhFiEc0AAAAC/saul-goodman-roa.gif](https://media.tenor.com/pMhSj9NfCXsAAAAC/saul-goodman-better-call-saul.gif"/>
+  <img align="left" height="250" src="https://media.tenor.com/pMhSj9NfCXsAAAAC/saul-goodman-better-call-saul.gif"/>
 </div>
   <br/>
   <div align="center">
