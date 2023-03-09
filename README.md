@@ -1,4 +1,19 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=10000&color=04F700&center=true&vCenter=true&width=835&lines=ckd4+bazist+programmist" alt="Typing SVG" /></a>
+
+<div>
+  <img align="left" height="250" src="https://media.tenor.com/-9ZnxhFiEc0AAAAC/saul-goodman-roa.gif](https://media.tenor.com/pMhSj9NfCXsAAAAC/saul-goodman-better-call-saul.gif"/>
+</div>
+  <br/>
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="42" alt="bash logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" width="42" alt="debian logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="30" width="42" alt="embeddedc logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
+  </div>
 <!--
 **ckd4/ckd4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
