@@ -1,4 +1,4 @@
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=10000&color=04F700&center=true&vCenter=true&width=835&lines=ckd4+bazist+programmist" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=10000&color=04F700&center=true&vCenter=true&width=835&lines=bazist+programmist" alt="Typing SVG" /></a>
 
 <div>
     <img height="200" width"220" src="https://gifdb.com/images/high/caught-in-4k-saul-goodman-tz60jv8lh8sdnj3v.webp"/>
