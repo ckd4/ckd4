@@ -9,9 +9,12 @@
       <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckd4&layout=compact&theme=dark&hide_border=true" height="165" alt="stats graph"/>
     <br/>
+<br/>
           <img src="https://profile-counter.glitch.me/ckd4/count.svg"/>
     <br/>
+<br/>
   </div>
+    <br/>
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" width="42" alt="dot net"  />
