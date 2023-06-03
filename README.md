@@ -5,11 +5,12 @@
     <img height="200" width="320" src="https://gifdb.com/images/high/3d-saul-goodman-8w5pgtty7uc39twl.webp"/>
     <img height="200" width="254" src="https://i.imgur.com/Au2paCc.gif"/>
 <div>
-<img src="https://profile-counter.glitch.me/ckd4/count.svg"/>
   <br/>
       <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckd4&layout=compact&theme=dark&hide_border=true" height="165" alt="stats graph"/>
-    <br/><br/>
+    <br/>
+          <img src="https://profile-counter.glitch.me/ckd4/count.svg"/>
+    <br/>
   </div>
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
