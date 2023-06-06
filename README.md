@@ -7,7 +7,7 @@
 <div>
   <br/>
       <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckd4&layout=compact&theme=dark&hide_border=true" height="165" alt="stats graph"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckd4&layout=compact&theme=dark&hide_border=true&count_private=true" height="165" alt="stats graph"/>
     <br/>
 <br/>
           <img src="https://profile-counter.glitch.me/ckd4/count.svg"/>
