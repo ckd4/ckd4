@@ -31,7 +31,6 @@
 devicon/icons/photoshop/photoshop-line.svg
 devicon/icons/unity/unity-original.svg
 devicon/icons/unity/unity-original-wordmark.svg
-**ckd4/ckd4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
