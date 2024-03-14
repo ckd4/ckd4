@@ -1,6 +1,12 @@
 <a align="center" href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=10000&color=04F700&center=true&vCenter=true&width=835&lines=—+Добрый+вечер,+а+можно+вас,+ваш+покой+потревожить?+Конечно,+мы+приносим+вам+глубокие+извинения."/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=5000&color=04F700&center=true&vCenter=true&width=835&lines=—+Добрый+вечер,+а+можно+вас,+ваш+покой+потревожить?+Конечно,+мы+приносим+вам+глубокие+извинения."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=20000&color=04F700&center=true&vCenter=true&width=835&lines=—+Нахуй+вы+нас+снимаете?"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=20000&color=04F700&center=true&vCenter=true&width=835&lines=—+Мы+вас+не...+Тише,+молодой+человек,+у+вас+лёд+на+погоне."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=20000&color=04F700&center=true&vCenter=true&width=835&lines=—+Да+и+хуй+с+этим+льдом.+Нахуй+вы+нас+снимаете?+Мы+какие-то+знаменитости?"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=20000&color=04F700&center=true&vCenter=true&width=835&lines=—+Да."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=20000&color=04F700&center=true&vCenter=true&width=835&lines=—+У+нас+группа+'Сортирный+Союз',+её+кто-то+знает?"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=20000&color=04F700&center=true&vCenter=true&width=835&lines=—+Да,+мы+знаем,+мы+про+неё+слышали,+мы+ваши+фанаты."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=20000&color=04F700&center=true&vCenter=true&width=835&lines=—+Да?+Пиздите+вы,+нахуй+вы+меня+снимаете?+Вы+наци,+да?"/>
 </a>
 
 <div>
