@@ -1,9 +1,4 @@
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=5000&color=04F700&center=true&vCenter=true&width=835&lines=—+Добрый+вечер,+а+можно+вас,+ваш+покой+потревожить?+Конечно,+мы+приносим+вам+глубокие+извинения./n\n"/></a>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=10000&color=04F700&center=true&vCenter=true&width=835&lines=—+Нахуй+вы+нас+снимаете?"/></a>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=10000&color=04F700&center=true&vCenter=true&width=835&lines=—+Мы+вас+не...+Тише,+молодой+человек,+у+вас+лёд+на+погоне."/></a>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=10000&color=04F700&center=true&vCenter=true&width=835&lines=—+Да+и+хуй+с+этим+льдом.+Нахуй+вы+нас+снимаете?+Мы+какие-то+знаменитости?"/></a>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=10000&color=04F700&center=true&vCenter=true&width=835&lines=—+Да."/></a>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=10000&color=04F700&center=true&vCenter=true&width=835&lines=—+У+нас+группа+'Сортирный+Союз',+её+кто-то+знает?"/></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=5000&color=04F700&center=true&vCenter=true&width=835&lines=—+Добрый+вечер,+а+можно+вас,+ваш+покой+потревожить?+Конечно,+мы+приносим+вам+глубокие+извинения.  —+Нахуй+вы+нас+снимаете?"/></a>
 
 <div>
     <img height="200" width"220" src="https://gifdb.com/images/high/caught-in-4k-saul-goodman-tz60jv8lh8sdnj3v.webp"/>
