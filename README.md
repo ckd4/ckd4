@@ -10,7 +10,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=20000&color=04F700&center=true&vCenter=true&width=835&lines=—+Мы?+Мы+нет,+вы+что!"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=20000&color=04F700&center=true&vCenter=true&width=835&lines=—+Если+вы+наци,+то+идите+вы+на+хуй,+короче,+пошли+отсюда,+Вова."/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=20000&color=04F700&center=true&vCenter=true&width=835&lines=—+Угу,+а+чё+ещё+скажешь?"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=100000&color=04F700&center=true&vCenter=true&width=835&lines=—+Чё+я+ещё+скажу,+короче+слабо+задеплоить+три+сервиса+сделать+с+нуля+энвелоп+и+выйти+на+прод+в+течении+недели?!"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=100000&color=04F700&center=true&vCenter=true&width=835&lines=—+Чё+я+ещё+скажу,+короче"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=100000&color=04F700&center=true&vCenter=true&width=835&lines=—+слабо+задеплоить+три+сервиса+сделать+с+нуля+энвелоп+и+выйти+на+прод+в+течении+недели?!"/>
 </a>
 
 <div>
