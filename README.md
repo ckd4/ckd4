@@ -1,4 +1,5 @@
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=5000&color=04F700&center=true&vCenter=true&width=835&lines=—+Добрый+вечер,+а+можно+вас,+ваш+покой+потревожить?+Конечно,+мы+приносим+вам+глубокие+извинения."/></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=5000&color=04F700&center=true&vCenter=true&width=835&lines=—+Добрый+вечер,+а+можно+вас,+ваш+покой+потревожить?+Конечно,+мы+приносим+вам+глубокие+извинения."/></a>
 
 <div>
     <img height="200" width"220" src="https://gifdb.com/images/high/caught-in-4k-saul-goodman-tz60jv8lh8sdnj3v.webp"/>
