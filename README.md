@@ -12,6 +12,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=20000&color=04F700&center=true&vCenter=true&width=835&lines=—+Угу,+а+чё+ещё+скажешь?"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=100000&color=04F700&center=true&vCenter=true&width=835&lines=—+Чё+я+ещё+скажу,+короче"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=100000&color=04F700&center=true&vCenter=true&width=835&lines=—+слабо+задеплоить+три+сервиса+и+с+нулевой+энвелопнуть+их+API+в+бота,+когда+выход+в+прод+на+неделе"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=100000&color=04F700&center=true&vCenter=true&width=835&lines=—+Какой+у+вас+стек+технологий?+ ©Max"/>
+
 </a>
 
 <div>
