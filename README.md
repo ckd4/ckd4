@@ -21,7 +21,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=10000&color=FF8000&center=true&vCenter=true&width=835&lines=©Max"/>
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=10000&color=FF6645&center=true&vCenter=true&width=835&lines=I+am+gay"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=10000&color=FF6645&center=true&vCenter=true&width=835&lines=I'm+gay"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=10000&color=FF8000&center=true&vCenter=true&width=835&lines=©Leonid"/>
 
 
