@@ -11,7 +11,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=20000&color=04F700&center=true&vCenter=true&width=835&lines=—+Если+вы+наци,+то+идите+вы+на+хуй,+короче,+пошли+отсюда,+Вова."/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=20000&color=04F700&center=true&vCenter=true&width=835&lines=—+Угу,+а+чё+ещё+скажешь?"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=100000&color=04F700&center=true&vCenter=true&width=835&lines=—+Чё+я+ещё+скажу,+короче"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=100000&color=04F700&center=true&vCenter=true&width=835&lines=—+слабо+задеплоить+три+сервиса+и+с+нулевой+энвелопнуть+их+API+в+бота,+когда+выход+в+прод+на+некст+неделе+а+мать"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=100000&color=04F700&center=true&vCenter=true&width=835&lines=—+слабо+задеплоить+три+сервиса+и+с+нулевой+энвелопнуть+их+API+в+бота,+когда+выход+в+прод+на+некст+неделе"/>
 </a>
 
 <div>
