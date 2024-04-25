@@ -28,6 +28,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=10000&color=FF6645&center=true&vCenter=true&width=835&lines=int64+=+float"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=10000&color=FF8000&center=true&vCenter=true&width=835&lines=©BGAMING"/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=10000&color=FF6645&center=true&vCenter=true&width=835&lines=—я+в+коме"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=10000&color=FF8000&center=true&vCenter=true&width=835&lines=©Ega"/>
+
+
     
 </a>
 
