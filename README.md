@@ -1,18 +1,4 @@
 <a align="center" href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000000&color=04F700&center=true&vCenter=true&width=835&lines=—+Добрый+вечер,+а+можно+вас,+ваш+покой+потревожить?+Конечно,+мы+приносим+вам+глубокие+извинения."/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000000&color=04F700&center=true&vCenter=true&width=835&lines=—+Нахуй+вы+нас+снимаете?"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000000&color=04F700&center=true&vCenter=true&width=835&lines=—+Мы+вас+не...+Тише,+молодой+человек,+у+вас+лёд+на+погоне."/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000000&color=04F700&center=true&vCenter=true&width=835&lines=—+Да+и+хуй+с+этим+льдом.+Нахуй+вы+нас+снимаете?+Мы+какие-то+знаменитости?"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000000&color=04F700&center=true&vCenter=true&width=835&lines=—+Да."/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000000&color=04F700&center=true&vCenter=true&width=835&lines=—+У+нас+группа+'Сортирный+Союз',+её+кто-то+знает?"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000000&color=04F700&center=true&vCenter=true&width=835&lines=—+Да,+мы+знаем,+мы+про+неё+слышали,+мы+ваши+фанаты."/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000000&color=04F700&center=true&vCenter=true&width=835&lines=—+Да?+Пиздите+вы,+нахуй+вы+меня+снимаете?+Вы+наци,+да?"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000000&color=04F700&center=true&vCenter=true&width=835&lines=—+Мы?+Мы+нет,+вы+что!"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000000&color=04F700&center=true&vCenter=true&width=835&lines=—+Если+вы+наци,+то+идите+вы+на+хуй,+короче,+пошли+отсюда,+Вова."/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000000&color=04F700&center=true&vCenter=true&width=835&lines=—+Угу,+а+чё+ещё+скажешь?"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000000&color=04F700&center=true&vCenter=true&width=835&lines=—+Чё+я+ещё+скажу,+короче"/>
-
-    
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=10000&color=FF6645&center=true&vCenter=true&width=835&lines=—+слабо+задеплоить+три+сервиса+и+с+нулевой+энвелопнуть+их+API+в+бота,+когда+выход+в+прод+на+неделе?"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=10000&color=FF8000&center=true&vCenter=true&width=835&lines=©Ega"/>
 </a>
