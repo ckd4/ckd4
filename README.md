@@ -1,13 +1,5 @@
-<a align="center" href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=10000&color=FF6645&center=true&vCenter=true&width=835&lines=—+слабо+задеплоить+три+сервиса+и+с+нулевой+энвелопнуть+их+API+в+бота,+когда+выход+в+прод+на+неделе?"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=10000&color=FF8000&center=true&vCenter=true&width=835&lines=©Ega"/>
-</a>
 
-<div>
-    <img height="200" width"220" src="https://gifdb.com/images/high/caught-in-4k-saul-goodman-tz60jv8lh8sdnj3v.webp"/>
-    <img height="200" width="320" src="https://gifdb.com/images/high/3d-saul-goodman-8w5pgtty7uc39twl.webp"/>
-    <img height="200" width="254" src="https://i.imgur.com/Au2paCc.gif"/>
-<div>
+
   <br/>
       <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckd4&layout=compact&theme=dark&hide_border=true&count_private=false" height="165" alt="stats graph"/>
