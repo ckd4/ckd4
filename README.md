@@ -1,27 +1,20 @@
 
+<p align="center" style="font-family: monospace; font-size: 18px; color: #0f0;">
+  <marquee behavior="scroll" direction="left" scrollamount="10">
+    01001000 01100101 01101100 01101100 01101111 00101100 00100000 01010111 01101111 01110010 01101100 01100100
+  </marquee>
+</p>
 
-  <br/>
-      <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckd4&layout=compact&theme=dark&hide_border=true&count_private=false" height="165" alt="stats graph"/>
-    <br/>
-<br/>
-          <img src="https://profile-counter.glitch.me/ckd4/count.svg"/>
-    <br/>
-<br/>
-  </div>
-  <div align="center">
-    
-    
-
-
-  </div>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+<table align="center">
+  <tr>
+    <td align="center" valign="bottom">
+      <img height="200" width="220" src="https://gifdb.com/images/high/caught-in-4k-saul-goodman-tz60jv8lh8sdnj3v.webp"/>
+    </td>
+    <td align="center" valign="bottom">
+      <img height="200" width="320" src="https://gifdb.com/images/high/3d-saul-goodman-8w5pgtty7uc39twl.webp"/>
+    </td>
+    <td align="center" valign="bottom">
+      <img height="200" width="254" src="https://i.imgur.com/Au2paCc.gif"/>
+    </td>
+  </tr>
+</table>
