@@ -5,7 +5,6 @@
   </marquee>
 </p>
 
-<table align="center">
   <tr>
     <td align="center" valign="bottom">
       <img height="200" width="220" src="https://gifdb.com/images/high/caught-in-4k-saul-goodman-tz60jv8lh8sdnj3v.webp"/>
@@ -17,4 +16,3 @@
       <img height="200" width="254" src="https://i.imgur.com/Au2paCc.gif"/>
     </td>
   </tr>
-</table>
