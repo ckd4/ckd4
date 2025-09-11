@@ -15,12 +15,6 @@
 
 
   </div>
-<!--
-devicon/icons/photoshop/photoshop-line.svg
-devicon/icons/unity/unity-original.svg
-devicon/icons/unity/unity-original-wordmark.svg
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
