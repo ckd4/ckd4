@@ -12,7 +12,7 @@
 
   <!-- Правая GIF -->
   <div style="display: flex; align-items: flex-end;">
-    <img height="300" width="400" src="https://i.imgur.com/Au2paCc.gif"/>
+    <img height="500" width="600" src="https://i.imgur.com/Au2paCc.gif"/>
   </div>
 
 </div>
