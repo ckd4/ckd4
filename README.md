@@ -1,6 +1,5 @@
 <p align="center" style="font-family: monospace; font-size: 24px; color: #0f0;">
   <marquee behavior="scroll" direction="left" scrollamount="15">
-    01100101 01100111 01100001 00100000 01100111 01100100 01100101 00100000 01100010 01100001 01100010 01101011 01101001
   </marquee>
 </p>
 
