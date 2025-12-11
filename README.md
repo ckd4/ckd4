@@ -8,7 +8,7 @@
 
 
   <div style="display: flex; align-items: flex-end;">
-    <img height="500" width="600" src="https://i.imgur.com/Au2paCc.gif"/>
+    <img height="500" width="600" src="https://i.imgur.com/2iWAywX.gif"/>
   </div>
   
 
