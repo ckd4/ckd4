@@ -12,7 +12,7 @@
 
   </div>
   <div style="display: flex; align-items: flex-end;">
-          <img height="500" width="600" src="https://i.imgur.com/a/Y8dIgzF.gif"/>
+          <img height="500" width="600" src="https://imgur.com/a/Y8dIgzF.gif"/>
   </div>
   <div style="display: flex; align-items: flex-end;">
     <img height="350" width="600" src="https://i.imgur.com/2iWAywX.gif"/>
