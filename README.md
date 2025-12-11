@@ -8,13 +8,9 @@
 
 
   <div style="display: flex; align-items: flex-end;">
-    <img height="350" width="600" src="https://i.imgur.com/2iWAywX.gif"/>
-
-  </div>
-  <div style="display: flex; align-items: flex-end;">
           <img height="500" width="600" src="https://i.imgur.com/HyU32HA.gif"/>
   </div>
-  <div style="display: flex; align-items: flex-end;">
+  <!-- div style="display: flex; align-items: flex-end;">
     <img height="350" width="600" src="https://i.imgur.com/2iWAywX.gif"/>
   </div>
 
