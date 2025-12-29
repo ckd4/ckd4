@@ -10,6 +10,8 @@
   <div style="display: flex; align-items: flex-end;">
           <img height="500" width="600" src="https://i.imgur.com/HyU32HA.gif"/>
   </div>
+  Все ЗАРАБОТОЛО НАДО БЫЛО. Сброс сети И ВСЕ. Если ВСЕ БУДЕТ ХОРОШО РАБОТАТЬ, Я ЕЩЁ КУПЛЮ У ВАС VPN. Ваше местоположение:
+Хельсинки. Финляндия.
   <!-- div style="display: flex; align-items: flex-end;">
     <img height="350" width="600" src="https://i.imgur.com/2iWAywX.gif"/>
   </div>
